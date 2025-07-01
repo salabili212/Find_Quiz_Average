@@ -1,0 +1,6 @@
+suliman 12 12 12 12
+suliman 39 20 90 20
+suliman 50 50 82 12
+suliman 39 20 20 20
+suliman 40 40 20 40
+suliman 39 20 20 20
